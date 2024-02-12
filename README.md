@@ -8,3 +8,7 @@ mkdir Mlops_Project
 cd Mlops_Project
 touch main.py
 New-Item main.py -type file
+git push origin dev
+git add .           
+git commit -m "Your commit message"
+
